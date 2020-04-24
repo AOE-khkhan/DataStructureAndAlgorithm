@@ -1,6 +1,6 @@
-# [AlgorithmsImplementation]
+# [AlgorithmsImplementation](/ALGORITHM.md)
 
-- [[AlgorithmsImplementation]](#algorithmsimplementation)
+- [AlgorithmsImplementation](#algorithmsimplementation)
   - [Introduction](#introduction)
   - [Support](#support)
   - [Contributing](#contributing)
@@ -13,7 +13,7 @@
 
 Algorithm is a step-by-step procedure, which defines a set of instructions to be executed in a certain order to get the desired output.Algorithms are generally created independet of underlying langugae.
 
-Check [Algorithm-Here](https://github.com/codePerfectPlus/PrivateTestCode/blob/master/AlgorithmPython/ALGORITHM.md)
+Check [Algorithm-Here](/ALGORITHM.md)
 
 ## Support
 
