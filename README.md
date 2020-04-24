@@ -17,11 +17,12 @@ Check [Algorithm-Here](/ALGORITHM.md)
 
 ## Support
 
-contributors
+Check [Contribution](/contributing.md) Guide Before Contribution.
 
 ## Contributing
 
 Before submitting a bug, please do the following:
+Check [Contribution](/contributing.md) Guide Before Contribution.
 
 Perform basic troubleshooting steps:
 
@@ -43,6 +44,6 @@ For open-source projects, Under MIT License.
 
 - Project: [AlgorithmsImplementation](https://github.com/codePerfectPlus)
 - Author: CodePerfectPlus
-- Language: JavaScript
+- Language: Python
 - Github: <https://github.com/codePerfectPlus>
 - Website: <http://codeperfectplus.github.io/>
