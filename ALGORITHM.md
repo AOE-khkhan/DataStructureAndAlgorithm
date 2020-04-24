@@ -1,7 +1,9 @@
-# [AlgorithmsImplementation](https://github.com/codeperfectplus)
+# [AlgorithmsImplementation](/ALGORITHM.md)
+
+Data Structure and Algorithm Implementation in Python.
 
 - [AlgorithmsImplementation](#algorithmsimplementation)
-  - [Sorting Algorithm)](#sorting-algorithm)
+  - [Sorting Algorithm](#sorting-algorithm)
   - [Searching Algorithms](#searching-algorithms)
   - [MachineLearning Algorithm](#machinelearning-algorithm)
   - [DeepLearning Algorithm](#deeplearning-algorithm)
@@ -14,7 +16,7 @@
   - [Dynamic Programing](#dynamic-programing)
   - [Other Algorithm](#other-algorithm)
 
-## [Sorting Algorithm](/Sorting%20Algorithms/README.md))
+## [Sorting Algorithm](/Sorting%20Algorithms/README.md)
 
 Sorting in nothing but arranging the data in ascending or desceding order.
 Algortihm is this Repo :
