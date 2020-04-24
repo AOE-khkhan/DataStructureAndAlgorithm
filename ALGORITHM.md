@@ -1,42 +1,49 @@
 # [AlgorithmsImplementation](https://github.com/codeperfectplus)
 
 - [AlgorithmsImplementation](#algorithmsimplementation)
-  - [SearchAlgorithm](#searchalgorithm)
-    - [BubbleSort](#bubblesort)
-    - [Insertion Sort](#insertion-sort)
-    - [Selection Sort](#selection-sort)
-    - [Quick Sort](#quick-sort)
-    - [Merge Sort](#merge-sort)
-    - [Heap Sort](#heap-sort)
+  - [Sorting Algorithm)](#sorting-algorithm)
+  - [Searching Algorithms](#searching-algorithms)
+  - [MachineLearning Algorithm](#machinelearning-algorithm)
+  - [DeepLearning Algorithm](#deeplearning-algorithm)
+  - [PathFinding Algorithms](#pathfinding-algorithms)
+  - [Recursion Algorithms](#recursion-algorithms)
+  - [DataStructure](#datastructure)
+  - [Divide and Conquer](#divide-and-conquer)
+  - [Greedy Algorithm](#greedy-algorithm)
+  - [BacktrackingAlgorithm](#backtrackingalgorithm)
+  - [Dynamic Programing](#dynamic-programing)
+  - [Other Algorithm](#other-algorithm)
 
-## [SearchAlgorithm](#searchalgorithm)
+## [Sorting Algorithm](/Sorting%20Algorithms/README.md))
 
 Sorting in nothing but arranging the data in ascending or desceding order.
 Algortihm is this Repo :
 
-- Bubble Sort
-- Insertion Sort
-- Selection Sort
-- Quick Sort
-- Merge Sort
-- Heap Sort
+- [Bubble Sort](/Sorting%20Algorithms/bubble_sort.py)
+- [Insertion Sort](/Sorting%20Algorithms/insertion_sort.py)
+- [Selection Sort](/Sorting%20Algorithms/selection_sort.py)
+- [Quick Sort](Sorting%20Algorithms/quick_sort.py)
+- [Merge Sort](Sorting%20Algorithms/merge_sort.py)
+- [Heap Sort](Sorting%20Algorithms/heap_sort.py)
 
-### [BubbleSort](/Bubble%20Sort.py)
+## [Searching Algorithms](/Searching%20Algorithms/README.md)
 
-Bubble Sort is simple algorithm so **often** it's used to introduce the concept the sorting algorithm.
-In Bubble sort techinque, Each pair of adjcent element is compared and elementn are swapped if they are not in order.
+## [MachineLearning Algorithm](/Machine%20Learning%20Algorithm/README.md)
 
-Time Complexity : O(n*n). Worst case when array is reverse sorted.
+## [DeepLearning Algorithm](/Deep%20Learning%20Algorithms/README.md)
 
-### [Insertion Sort](#insertion-sort)
+## [PathFinding Algorithms](/Path%20Finding%20Algorithms/README.md)
 
-Insertion Sort is easy to implement, but it's very slow on large array and is almost never used to sort them.
-It's a table, in-place algorithm, that works really well for nearly-sorted or small array.
+## [Recursion Algorithms](/Recursion%20Algorithm/README.md)
 
-### [Selection Sort](#selection-sort)
+## [DataStructure](/Data%20Structure/README.md)
 
-### [Quick Sort](#quick-sort)
+## [Divide and Conquer](/Divide%20and%20conquer/README.md)
 
-### [Merge Sort](#merge-sort)
+## [Greedy Algorithm](/Greedy%20Algorithms/README.md)
 
-### [Heap Sort](#heap-sort)
+## [BacktrackingAlgorithm](/BackTracking%20Algorithm/README.md)
+
+## [Dynamic Programing](/Dynamic%20Programing/README.md)
+
+## Other Algorithm
